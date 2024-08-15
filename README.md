@@ -1,3 +1,13 @@
+<style>
+
+  body {
+
+    text-align: center;
+
+  }
+
+</style>
+
 # CV de David BILEMBOKOLO-SAMBA
 
 ### Photo
