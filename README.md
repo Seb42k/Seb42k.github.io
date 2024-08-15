@@ -79,7 +79,7 @@ niveau intermédiaire
 ## Réseaux sociaux
 
 ### LinkedIn
-[https://www.linkedin.com/in/jean-pierre-dupont/](https://www.linkedin.com/in/jean-pierre-dupont/)
+[https://www.linkedin.com/in/david-bilembokolo-samba(https://www.linkedin.com/in/david-bilembokolo-samba)
 
 ### GitHub
-[https://github.com/jSeb42k](https://github.com/jean-pierre-dupont)
+[https://github.com/Seb42k](https://github.com/Seb42k)
