@@ -9,8 +9,8 @@ BILEMBOKOLO-SAMBA David Sébastien Ismaél
 1361, rue Bordeaux Ouenzé , Brazzaville ,République du Congo
 
 ### Téléphone
-+ 242 06 960 05 93
-+ 242 05 01 126 60
++ (+242) 06 960 05 93
++ (+242) 05 01 126 60
 
 ### Email
 [sebbil242k@gmail.com](mailto:jean-pierre.dupont@email.com)
