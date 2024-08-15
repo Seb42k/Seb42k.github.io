@@ -47,9 +47,10 @@ OpenClassrooms (2018)
 * Mise en place d'un système de gestion de projet en utilisant Agile et Scrum
 
 ### Stagiaire (2024)
-
+~~~center
 * Participation au développement d'un projet de e-commerce en utilisant Magento
 * Apprentissage des bonnes pratiques de développement web
+~~~
 
 ## Compétences
 
