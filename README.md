@@ -1,5 +1,8 @@
 # CV de David BILEMBOKOLO-SAMBA
 
+### Photo
+![Me voici](https://static.licdn.com/aero-v1/sc/h/3h0vrtch1zepjr4p54aja8i9x)
+
 ## Informations personnelles
 
 ### Nom et Prénom
