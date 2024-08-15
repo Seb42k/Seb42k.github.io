@@ -13,7 +13,7 @@ BILEMBOKOLO-SAMBA David Sébastien Ismaél
 + (+242) 05 01 126 60
 
 ### Email
-[sebbil242k@gmail.com](mailto:jean-pierre.dupont@email.com)
+[sebbil242k@gmail.com](mailto:sebbil242k@email.com)
 
 ## Objectif
 Développeur backend expérimenté cherchant un poste dans une entreprise innovante.
@@ -79,7 +79,7 @@ niveau intermédiaire
 ## Réseaux sociaux
 
 ### LinkedIn
-[https://www.linkedin.com/in/david-bilembokolo-samba(https://www.linkedin.com/in/david-bilembokolo-samba)
+[https://www.linkedin.com/in/david-bilembokolo-samba](https://www.linkedin.com/in/david-bilembokolo-samba)
 
 ### GitHub
 [https://github.com/Seb42k](https://github.com/Seb42k)
