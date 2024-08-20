@@ -54,10 +54,15 @@ OpenClassrooms (2018)
 * React
 * Angular
 * Vue.js
+* Node.js
+* Express.js
 
 ### Bases de données
 * MySQL
+* Microsoft Server
+* PostgeSQl
 * MongoDB
+* Redis
 
 ### Systèmes d'exploitation
 * Windows
