@@ -232,7 +232,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 John Doe. Tous droits réservés.</p>
+        <p>&copy; 2024 Bil David. Tous droits réservés.</p>
     </footer>
 
     <script>
